@@ -8,6 +8,3 @@ to audiobooks in the public domain; Available on [Google Play](https://play.goog
 
 ### Dotfiles:  
 [dotfiles](https://github.com/LeeWannacott/dotfiles)
-
-### If you want to hire me:
-https://www.fiverr.com/s/Nr2G9N
