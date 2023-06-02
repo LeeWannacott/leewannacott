@@ -10,6 +10,9 @@ to audiobooks in the public domain; Available for free on [Google Play](https://
 ### Dotfiles:  
 [dotfiles](https://github.com/LeeWannacott/dotfiles)
 
+### Goodreads
+[Goodreads](https://www.goodreads.com/user/show/149991214-lee-wannacott)
+
 ### (new) Hire me to do freelance:
 - Write you a script in Python, JavaScript or Go: [fivver](https://www.fiverr.com/leewannacott/write-you-a-script-in-python)
 - Teach programming basics: [fivver](https://www.fiverr.com/leewannacott/teach-programming-basics-in-either-javascript-or-python)
