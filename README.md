@@ -8,6 +8,7 @@ to audiobooks in the public domain; Available for free on [Google Play](https://
 - [blazing-releases](https://github.com/LeeWannacott/blazing-releases): Create GitHub Releases from a CHANGELOG.md; compatible with ["Keep a Changelog"](https://keepachangelog.com/en/1.0.0/) specification.
 
 ### Links:  
+- [Blog](https://leewannacott.github.io/Portfolio/#/Blog)
 - [Dotfiles](https://github.com/LeeWannacott/dotfiles)
 - [Goodreads](https://www.goodreads.com/user/show/149991214-lee-wannacott)
 
