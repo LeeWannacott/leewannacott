@@ -1,6 +1,6 @@
 ### Projects:
 
-- [table-sort-js](https://github.com/LeeWannacott/table-sort-js): HTML table sorting with no dependencies, builtin sort type inference and browser extensions available. #VanillaJS
+- [table-sort-js](https://github.com/LeeWannacott/table-sort-js): HTML table sorting with no dependencies.
 
 - [public-audiobooks](https://github.com/LeeWannacott/public-audiobooks): Listen
 to audiobooks in the public domain; Available for free on [Google Play](https://play.google.com/store/apps/details?id=com.leewannacott.libriaudire).
